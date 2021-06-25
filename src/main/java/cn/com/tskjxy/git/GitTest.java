@@ -12,7 +12,9 @@ public class GitTest {
         System.out.println("修复bug之后了修改");
         System.out.println("修复bug之后了修改");
         System.out.println("修复bug之后了修改");
-
+        System.out.println("修复bug之后了修改在线");
+        System.out.println("修复bug之后了修改在线");
+        System.out.println("修复bug之后了修改在线");
 
 
     }
